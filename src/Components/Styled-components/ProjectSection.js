@@ -12,6 +12,7 @@ export const ProjectSection = styled.section`
       console.log(props.img);
       return props.img;
     }});
+  -webkit-filter: blur(7px);
   filter: blur(7px);
   text-decoration: none;
   background-size: cover;

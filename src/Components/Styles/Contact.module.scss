@@ -21,14 +21,17 @@
     text-align: center;
     color: #000;
     border-radius: 1rem;
+    -webkit-outline: 4px solid purple;
     outline: 4px solid purple;
     margin: 0 auto;
+    -webkit-outline-offset: 2rem;
     outline-offset: 2rem;
     background-color: rgb(128, 0, 128, 0.1);
     font-size: 2rem;
     max-width: 40rem;
     //max-height: 20rem;
     @media (max-width: 49.3em) {
+      -webkit-outline-offset: 0.5rem;
       outline-offset: 0.5rem;
     }
     & p {

@@ -11,6 +11,7 @@
     font-family: "Times New Roman", Times, serif;
     font-size: 12rem;
     background-image: linear-gradient(to right, purple, red, green);
+    -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
     text-align: center;

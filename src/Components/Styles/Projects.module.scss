@@ -11,6 +11,10 @@
     & li {
       padding: 1rem 0;
       color: #fff;
+      @media (max-width: 25em) {
+        font-size: 4rem;
+        font-weight: 700;
+      }
       &:first-child {
         color: #000;
         padding: 1rem 2rem;

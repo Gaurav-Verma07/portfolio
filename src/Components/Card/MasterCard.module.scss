@@ -12,7 +12,7 @@
   @media (max-width: 25em) {
     width: 100vw;
     height: 100vh;
-    display: block;
+    display: inline-block;
     -webkit-scroll-snap-type: y proximity;
     scroll-snap-type: y proximity;
     -webkit-overflow-y: scroll;

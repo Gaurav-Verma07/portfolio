@@ -8,6 +8,9 @@
   z-index: 3;
   ul {
     list-style: none;
+    @media (max-width: 25em) {
+      list-style: disc;
+    }
     & li {
       padding: 1rem 0;
       color: #fff;

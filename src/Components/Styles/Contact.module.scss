@@ -44,7 +44,9 @@
     & ul {
       & li {
         cursor: pointer;
-        display: inline;
+        display: inline-flex;
+        flex-direction: row;
+        flex-wrap: wrap;
         padding: 2rem;
 
         & a {

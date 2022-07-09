@@ -2,7 +2,9 @@ import classes from "../Styles/Contact.module.scss";
 import git from "../Images/git.png";
 import gmail from "../Images/gmail.png";
 import linkedin from "../Images/linkedin.png";
+import instagram  from "../Images/instagram.png";
 import { Card } from "../Card/Card";
+
 export const Contact = () => {
   return (
     <Card>
@@ -29,6 +31,12 @@ export const Contact = () => {
                 <img src={gmail} />
               </a>
             </li>
+            <li>
+              <a href="https://www.instagram.com/gauravverma7103/">
+                <img src={instagram} />
+              </a>
+            </li>
+
           </ul>
         </div>
       </section>

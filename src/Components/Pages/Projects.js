@@ -8,9 +8,9 @@ import { Card } from "../Card/Card";
 export const Projects = () => {
   const projectData = [
     {
-      href: "https://lucky-web-dev.github.io/Project2_Game/",
+      href: "https://Gaurav-Verma07.github.io/Project2_Game/",
       img: cardgame,
-      code: "https://github.com/lucky-web-dev/Project2_Game",
+      code: "https://github.com/Gaurav-Verma07/Project2_Game",
       alt: "Game",
       about: [
         "Project 1",
@@ -20,10 +20,10 @@ export const Projects = () => {
       ],
     },
     {
-      href: "https://lucky-web-dev.github.io/Project3_GeoAPI/",
+      href: "https://Gaurav-Verma07.github.io/Project3_GeoAPI/",
       img: trackme,
       alt: "TrackMe app",
-      code: "https://github.com/lucky-web-dev/Project3_GeoAPI",
+      code: "https://github.com/Gaurav-Verma07/Project3_GeoAPI",
       about: [
         "Project 2",
         "Demonstrating the use of API",
@@ -32,9 +32,9 @@ export const Projects = () => {
       ],
     },
     {
-      href: "https://lucky-web-dev.github.io/ReactProject1_reactMeals/",
+      href: "https://Gaurav-Verma07.github.io/ReactProject1_reactMeals/",
       img: reactmeals,
-      code: "https://github.com/lucky-web-dev/ReactProject1_reactMeals",
+      code: "https://github.com/Gaurav-Verma07/ReactProject1_reactMeals",
       alt: "ReactMeals app",
       about: [
         "Project 3",

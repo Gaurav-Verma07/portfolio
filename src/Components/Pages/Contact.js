@@ -17,7 +17,7 @@ export const Contact = () => {
           </p>
           <ul>
             <li>
-              <a href="https://github.com/lucky-web-dev">
+              <a href="https://github.com/Gaurav-Verma07">
                 <img src={git} />
               </a>
             </li>
